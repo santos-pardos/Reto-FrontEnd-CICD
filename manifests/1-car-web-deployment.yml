@@ -40,6 +40,6 @@ spec:
     spec:
       containers:
       - name: car-web
-        image: santospardos/sanvalero:car-web-V8
+        image: santospardos/car-web-V9:00
         ports:
         - containerPort: 80
